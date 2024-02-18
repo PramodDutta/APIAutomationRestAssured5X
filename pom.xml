@@ -37,6 +37,19 @@
 
 
 
+    <!-- https://mvnrepository.com/artifact/org.uncommons/reportng -->
+    <dependency>
+      <groupId>org.testng</groupId>
+      <artifactId>reportng</artifactId>
+      <version>1.2.2</version>
+      <scope>test</scope>
+    </dependency>
+
+
+
+
+
+
 
 
 

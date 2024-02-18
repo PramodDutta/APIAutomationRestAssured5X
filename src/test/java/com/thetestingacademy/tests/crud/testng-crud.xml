@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/pramod/Documents/Code/APIAutomationRestAssured5X">
+        <classes>
+            <class name="com.thetestingacademy.tests.crud.POST.NonBDDStylePOST">
+            </class>
+            <class name="com.thetestingacademy.tests.crud.PATCH.NonBDDPATCH">
+            </class>
+            <class name="com.thetestingacademy.tests.crud.GET.NonBDDStyleGET">
+            </class>
+            <class name="com.thetestingacademy.tests.crud.PUT.NonBDDPUT">
+            </class>
+        </classes>
+    </test>
+</suite>
