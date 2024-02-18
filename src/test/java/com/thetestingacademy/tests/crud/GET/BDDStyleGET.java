@@ -1,8 +1,8 @@
-package com.thetestingacademy;
+package com.thetestingacademy.tests.crud.GET;
 
 import io.restassured.RestAssured;
 
-public class RATestCase {
+public class BDDStyleGET {
     public static void main(String[] args) {
 
 
@@ -15,6 +15,7 @@ public class RATestCase {
         // PaYLOAD - ? NO
         // Auth - Basic, Digest, JWT, Bearer Token, OAuth 2.0 ? = No
 
+        // Verification
         // Status Code
         // Response Body
         // Time, Headers ,Cookies
@@ -40,14 +41,13 @@ public class RATestCase {
 
 
         // When  ->
-        // PaYLOAD - ? NO/yES
+        // PaYLOAD - ? NO/yES - JSON. XML  -> String, Hashmap, Object class
         // GET Method
 
 
 
         // Then()
-        // Response
-        // Validation
+        // Response Validation
         //  Status Code
         //  Response Body
         //  Time, Headers ,Cookies
@@ -57,10 +57,8 @@ public class RATestCase {
       RestAssured
               .given()
               .baseUri("https://api.zippopotam.us").basePath("/IN/560037")
-
               .when().log().all()
               .get()
-
               .then().log().all().statusCode(201);
 
 
