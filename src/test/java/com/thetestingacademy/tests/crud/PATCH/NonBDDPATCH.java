@@ -25,7 +25,19 @@ public class NonBDDPATCH {
         // id - 3548
         // payload
         String payload = "{\n" +
-                "    \"firstname\" : \"Pramod\",\n" +
+                "    \"firstname\" : \"Amit\",\n" +
+                "    \"lastname\" : \"Brown\",\n" +
+                "    \"totalprice\" : 111,\n" +
+                "    \"depositpaid\" : true,\n" +
+                "    \"bookingdates\" : {\n" +
+                "        \"checkin\" : \"2018-01-01\",\n" +
+                "        \"checkout\" : \"2019-01-01\"\n" +
+                "    },\n" +
+                "    \"additionalneeds\" : \"Breakfast\"\n" +
+                "}";
+
+        String payload2 = "{\n" +
+                "    \"firstname\" : \"Amit\",\n" +
                 "    \"lastname\" : \"Brown\",\n" +
                 "    \"totalprice\" : 111,\n" +
                 "    \"depositpaid\" : true,\n" +

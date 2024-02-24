@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationRestAssured5X"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.006">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getToken"
+                time="0.005"
+                classname="com.thetestingacademy.testng.TestNG011">
+            </testcase>
+            <testcase
+                name="testPutReq"
+                time="0.001"
+                classname="com.thetestingacademy.testng.TestNG011">
+            </testcase>
+</testsuite>
