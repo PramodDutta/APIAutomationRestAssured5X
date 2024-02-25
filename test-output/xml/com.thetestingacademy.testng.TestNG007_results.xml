@@ -12,6 +12,6 @@
             <testcase
                 name="sanityRun"
                 time="0.006"
-                classname="com.thetestingacademy.testng.TestNG007">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG007">
             </testcase>
 </testsuite>

@@ -4,7 +4,7 @@
     <test verbose="2" preserve-order="true" name="APIAutomationRestAssured5X">
         <parameter name="browser" value="chrome"></parameter>
         <classes>
-            <class name="com.thetestingacademy.testng.TestNG012"></class>
+            <class name="com.thetestingacademy.testng.testngexamples.TestNG012"></class>
         </classes>
     </test>
 </suite>

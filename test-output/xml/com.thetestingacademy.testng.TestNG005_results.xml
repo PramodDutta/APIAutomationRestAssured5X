@@ -12,6 +12,6 @@
             <testcase
                 name="testPUTRequest"
                 time="1.787"
-                classname="com.thetestingacademy.testng.TestNG005">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG005">
             </testcase>
 </testsuite>

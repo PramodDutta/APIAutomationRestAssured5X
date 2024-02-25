@@ -1,4 +1,4 @@
-package com.thetestingacademy.testng;
+package com.thetestingacademy.testng.testngexamples;
 
 import org.testng.annotations.Test;
 //Package1 - Class1 - Test1, Test2 - Execute ?

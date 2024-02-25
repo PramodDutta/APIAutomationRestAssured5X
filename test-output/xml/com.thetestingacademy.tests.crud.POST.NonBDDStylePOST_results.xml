@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.005">
+           time="4.835">
     <properties></properties>
 
 
 
             <testcase
-                name="demo1"
-                time="0.005"
-                classname="com.thetestingacademy.testng.testngexamples.TestNG012">
+                name="testNonBDDStylePOSTPositive"
+                time="4.835"
+                classname="com.thetestingacademy.tests.crud.POST.NonBDDStylePOST">
             </testcase>
 </testsuite>

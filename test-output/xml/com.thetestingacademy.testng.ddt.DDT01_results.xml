@@ -4,19 +4,19 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.006">
+           time="0.004">
     <properties></properties>
 
 
 
             <testcase
-                name="getToken"
-                time="0.005"
-                classname="com.thetestingacademy.testng.testngexamples.TestNG011">
+                name="testLoginData"
+                time="0.001"
+                classname="com.thetestingacademy.testng.ddt.DDT01">
             </testcase>
             <testcase
-                name="testPutReq"
-                time="0.001"
-                classname="com.thetestingacademy.testng.testngexamples.TestNG011">
+                name="testLoginData"
+                time="0.003"
+                classname="com.thetestingacademy.testng.ddt.DDT01">
             </testcase>
 </testsuite>

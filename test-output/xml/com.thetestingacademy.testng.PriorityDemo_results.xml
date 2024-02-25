@@ -12,16 +12,16 @@
             <testcase
                 name="demo2"
                 time="0.000"
-                classname="com.thetestingacademy.testng.PriorityDemo">
+                classname="com.thetestingacademy.testng.testngexamples.PriorityDemo">
             </testcase>
             <testcase
                 name="demo3"
                 time="0.006"
-                classname="com.thetestingacademy.testng.PriorityDemo">
+                classname="com.thetestingacademy.testng.testngexamples.PriorityDemo">
             </testcase>
             <testcase
                 name="demo1"
                 time="0.001"
-                classname="com.thetestingacademy.testng.PriorityDemo">
+                classname="com.thetestingacademy.testng.testngexamples.PriorityDemo">
             </testcase>
 </testsuite>

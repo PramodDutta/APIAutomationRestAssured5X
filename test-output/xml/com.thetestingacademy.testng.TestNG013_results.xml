@@ -12,81 +12,81 @@
             <testcase
                 name="loginTest"
                 time="0.001"
-                classname="com.thetestingacademy.testng.TestNG013">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.000"
-                classname="com.thetestingacademy.testng.TestNG013">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.001"
-                classname="com.thetestingacademy.testng.TestNG013">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.001"
-                classname="com.thetestingacademy.testng.TestNG013">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.000"
-                classname="com.thetestingacademy.testng.TestNG013">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.000"
-                classname="com.thetestingacademy.testng.TestNG013">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.001"
-                classname="com.thetestingacademy.testng.TestNG013">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.001"
-                classname="com.thetestingacademy.testng.TestNG013">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.000"
-                classname="com.thetestingacademy.testng.TestNG013">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.000"
-                classname="com.thetestingacademy.testng.TestNG013">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.006"
-                classname="com.thetestingacademy.testng.TestNG013">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.001"
-                classname="com.thetestingacademy.testng.TestNG013">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.000"
-                classname="com.thetestingacademy.testng.TestNG013">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.001"
-                classname="com.thetestingacademy.testng.TestNG013">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.001"
-                classname="com.thetestingacademy.testng.TestNG013">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.001"
-                classname="com.thetestingacademy.testng.TestNG013">
+                classname="com.thetestingacademy.testng.testngexamples.TestNG013">
             </testcase>
 </testsuite>

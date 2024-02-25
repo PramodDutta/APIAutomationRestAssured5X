@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="/Users/pramod/Documents/Code/APIAutomationRestAssured5X">
         <classes>
-            <class name="com.thetestingacademy.testng.Test001"></class>
+            <class name="com.thetestingacademy.testng.testngexamples.Test001"></class>
         </classes>
     </test>
 </suite>

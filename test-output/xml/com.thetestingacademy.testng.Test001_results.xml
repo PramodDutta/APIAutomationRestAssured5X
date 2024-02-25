@@ -12,6 +12,6 @@
             <testcase
                 name="demo5"
                 time="0.001"
-                classname="com.thetestingacademy.testng.Test001">
+                classname="com.thetestingacademy.testng.testngexamples.Test001">
             </testcase>
 </testsuite>

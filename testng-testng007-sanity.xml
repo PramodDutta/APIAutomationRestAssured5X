@@ -9,9 +9,9 @@
             </run>
         </groups>
         <classes>
-            <class name="com.thetestingacademy.testng.TestNG007"></class>
-            <class name="com.thetestingacademy.testng.TestNG005"></class>
-            <class name="com.thetestingacademy.testng.TestNG004"></class>
+            <class name="com.thetestingacademy.testng.testngexamples.TestNG007"></class>
+            <class name="com.thetestingacademy.testng.testngexamples.TestNG005"></class>
+            <class name="com.thetestingacademy.testng.testngexamples.TestNG004"></class>
 
         </classes>
     </test>
