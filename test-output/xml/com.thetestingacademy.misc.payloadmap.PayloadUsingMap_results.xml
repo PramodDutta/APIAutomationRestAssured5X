@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationRestAssured5X"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.272">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testPOSTReq"
+                time="4.272"
+                classname="com.thetestingacademy.misc.payloadmap.PayloadUsingMap">
+            </testcase>
+</testsuite>

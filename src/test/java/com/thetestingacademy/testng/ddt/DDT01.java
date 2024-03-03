@@ -17,10 +17,17 @@ public class DDT01 {
     // Excel - 2007 - xls, 2007 -> xlsx , CSV - comma seperated values
     //
 
+    // username, password , ER , AR, name, age, phone, CSV
+    // JSON file it will be different
+    // JSON Object -> Gson, Jackson you can
+
+
+
     @Test(dataProvider = "getData", dataProviderClass = UtilExcel.class)
-    public void testLoginData(String username, String password) {
+    public void testLoginData(String username, String password, String ER , String AR, String name, String ge, String phone ) {
         System.out.println("UserName - " + username);
         System.out.println("Password - " + password);
+        System.out.println("ER - " + ER);
 
         // Login to app API
 

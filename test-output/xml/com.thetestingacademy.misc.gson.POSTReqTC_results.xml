@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationRestAssured5X"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.090">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testPositive"
+                time="4.090"
+                classname="com.thetestingacademy.misc.gson.POSTReqTC">
+            </testcase>
+</testsuite>

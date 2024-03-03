@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationRestAssured5X"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.025">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testPost"
+                time="0.025"
+                classname="com.thetestingacademy.misc.gson.Demo">
+            </testcase>
+</testsuite>
